@@ -27,7 +27,7 @@ int main()
             remark = 'A';
 
         cout << "\nYour equivalent grade is: "
-             << remark << endl;
+             << remark << endl << endl;
 
     }
     else

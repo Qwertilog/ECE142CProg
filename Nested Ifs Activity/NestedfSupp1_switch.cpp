@@ -7,8 +7,7 @@ int main ()
 {
     int flv,
         sze;
-    char snr,
-         ret;
+    char snr;
     string size,
            flavor;
     double price;
@@ -137,11 +136,5 @@ int main ()
              << "=================================================\n";
     else
         cout << "\nPlease enter a valid character.\n";
-
-    /*cout << "\n-----------------------------------------\n"
-         << "Do you want to change your order?"
-         << "Enter (y/Y) if YES or (n/N) if NO: ";
-    cin >> ret;*/
-
     return 0;
 }
