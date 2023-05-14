@@ -31,7 +31,7 @@ int main()
 
     }
     else
-        cout << "\nYour grade is out of the numerical range (50-100)\n";
+        cout << "\nYour grade is out of the numerical range (50-100)\n\n";
 
     return 0;
 }
