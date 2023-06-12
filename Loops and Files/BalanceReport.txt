@@ -1,4 +1,4 @@
-Total Balance: P-125.03
-Total Amount of Deposits: P10.00
-Total Amount of Withdrawals: P234.00
-Total Interests Earned: P-1.03
+Total Balance: P305.02
+Total Amount of Deposits: P100.00
+Total Amount of Withdrawals: P0.00
+Total Interests Earned: P5.02

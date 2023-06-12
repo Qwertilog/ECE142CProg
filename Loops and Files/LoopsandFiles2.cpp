@@ -56,7 +56,7 @@ int main (){
 
         if (balance < 0)
         {
-            cout << "Notice: The calculated balance went below zero, the account has now been closed.";
+            cout << "Notice: The calculated balance went below zero! The account has now been closed.";
             break;
         }
     }
@@ -67,7 +67,7 @@ int main (){
          << "Total Amount of Withdrawals: " << runWithdraw << endl
          << "Total Interests Earned: " << runInterest << endl
          << "====================================================\n"
-         << "Notice: This report has been printed to BalanceReport.txt";
+         << "Notice: This report has been printed to BalanceReport.txt\n\n";
 
     ofstream report;
     report.open("BalanceReport.txt");
@@ -75,7 +75,7 @@ int main (){
     report << "Total Balance: P" << setprecision(2) << fixed << balance << endl
            << "Total Amount of Deposits: P" << runDeposit << endl
            << "Total Amount of Withdrawals: P" << runWithdraw << endl
-           << "Total Interests Earned: P" << runInterest << endl;
+           << "Total Interests Earned: P" << runInterest;
 
     report.close();
 
