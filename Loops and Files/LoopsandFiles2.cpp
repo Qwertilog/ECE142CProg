@@ -6,7 +6,10 @@ using namespace std;
 
 int main (){
 
-    double annRate, monRate, balance, months, deposit, runDeposit, withdraw, runWithdraw, interest, runInterest;
+    double annRate, monRate, balance, months, 
+           deposit, runDeposit,
+           withdraw, runWithdraw,
+           interest, runInterest;
 
     cout << "This program calculates the balance of a savings account.\n"
          << "-------------------------------------------------------------------\n\n";

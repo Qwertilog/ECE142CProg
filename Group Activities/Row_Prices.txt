@@ -1,0 +1,16 @@
+Row Seat Prices:
+Row #1 - P500
+Row #2 - P500
+Row #3 - P500
+Row #4 - P400
+Row #5 - P400
+Row #6 - P400
+Row #7 - P350
+Row #8 - P350
+Row #9 - P350
+Row #10 - P300
+Row #11 - P300
+Row #12 - P300
+Row #13 - P275
+Row #14 - P275
+Row #15 - P275
